@@ -3,5 +3,5 @@
 ### See My Recent Activity At https://jimmypla6z.github.io/#activity
 ## Contact Me
 ### Contact Me via:
-#### - Email: jimmypla6z@mail.com
-#### - Submitting Contact Form: jimmypla6z.github.io/#contact
+- Email: jimmypla6z@mail.com
+- Submitting Contact Form: https://jimmypla6z.github.io/#contact
